@@ -18,7 +18,6 @@
 # 5. git push <origin> <main> - команда отправки всех ваших изменений на удаленный репо
 
 # ----------------------------
-
 # 1) git init
 #         2) git add .
 #         3) git commit -m ''
@@ -28,8 +27,7 @@
 
 
 
-# git remote add origin git@github.com:GitHuber133/test1.git
-
+# git@github.com:GitHuber133/testing.git
 
 
 
